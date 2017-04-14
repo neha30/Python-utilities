@@ -1,3 +1,6 @@
+#from nltk.corpus import stopwords
+#sw=stopwords.words("english")
+
 set(['secondly', 'all', 'consider', 'whoever', 'results', 'four', 'edu', 'go', 'mill', 'evermore', 'causes', 'seemed', 'rd', 'certainly', 
 	'biol', 'system', "when's", 'tweet', 'vs', 'ts', 'thursday', 'to', 'asking', 'present', 'th', 'under', 'sorry', 'promptly', "a's", 'mug', 
 	'sent', '7', 'outside', 'far', 'mg', 'every', 'yourselves', 'fifty', "we'll", 'went', 'did', 'forth', "they've", 'fewer', 'try', 'p', 
